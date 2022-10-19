@@ -6,18 +6,15 @@
         <language>en</language>
         <item>
             <title>Version 1.1.0</title>
-            <sparkle:releaseNotesLink>
-                http://www.bilibili.com
-            </sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>http://www.bilibili.com</sparkle:releaseNotesLink>
             <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
             <enclosure
-                url="https://github.com/OctoberApril/SparkleServerTest/app.zip"
-                sparkle:shortVersionString="1.4.14"
-                sparkle:version="2019.05.04"
-                length="6605799"
+                url="https://github.com/OctoberApril/SparkleServerTest/blob/main/app.zip"
+                sparkle:shortVersionString="1.4"
+                sparkle:version="2"
+                length="38088832"
                 type="application/octet-stream"
-                sparkle:dsaSignature="MEYCIQCQaUqxcrhhEABlWxk+1At5QSwty+Li8d6Sr3q6jJF1JgIhAOWGpIkYLwXC
-                RFfaA8uz34Dy7CXCczpmSyCOQ5+rfOFL"
+                sparkle:dsaSignature="WFOaUAzK7sLdfz5pZfAZ1yy54F4X47cP5yPN1wHjHAybxaC6MbsuDdKtTZlBXASLbl5Jgcz0TDDRvsrFVnFTAw=="
             />
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
         </item>
